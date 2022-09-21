@@ -9,10 +9,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F72CA5&width=435&lines=About+Me)](https://git.io/typing-svg)  
   
 
-- 💻 I'm passionate about the technology area and the possibilities for creation and growth that it brings.  
+- 💻 I'm passionate about the technology area and the possibilities for creation and growth that it brings;  
   
 
-- 🌱 I love to contemplate nature  
+- 🌱 I love to contemplate nature;  
   
 
 - 🐇 I love animals, I even have a very cute bunny;  
@@ -117,5 +117,4 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
