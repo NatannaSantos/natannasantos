@@ -18,7 +18,7 @@
 - 🐇 I love animals, I even have a very cute bunny;  
   
 
-- 📚 I believe that learning is always growing and incessant, so I always try to update myself;  
+- 📚 I believe that learning is always growing and incessant, so I always try to learn new things;  
   
 
 <br/>  
