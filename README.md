@@ -6,6 +6,9 @@
 ### <div align="center">My name is Natanna and I'm a Full Stack web developer 👨‍💻 </div>  
   
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F72CA5&width=435&lines=About+Me)](https://git.io/typing-svg)  
+  
+
 - 💻 I'm passionate about the technology area and the possibilities for creation and growth that it brings.  
   
 
@@ -16,9 +19,6 @@
   
 
 - 📚 I believe that learning is always growing and incessant, so I always try to update myself;  
-  
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F72CA5&width=435&lines=About+Me)](https://git.io/typing-svg)  
   
 
 <br/>  
